@@ -1,0 +1,5 @@
+Proyecto que muestra la implementación básica de la rotación de pantalla en Android.
+
+- Declaración de layouts para cada orientación de pantalla (portrait y landscape).
+
+Ver tutorial: http://androideity.com/2011/10/06/manejando-la-rotacion-de-pantalla-en-android/
